@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/VctzSZPK/IMG-20250923-WA0024.jpg');
+      background-image: url('https://i.ibb.co/C3F4sMZ9/1753972141572.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Shivansh OFFLINE S3RV3R</p>
-    <p> ALWAYS ON FIRE ðŸ”¥ <a href="">Shivansh</a></p>
+    <p>OWNER SHAREEF OFFLINE S3RV3R</p>
+    <p> ALWAYS ON FIRE ðŸ”¥ <a href="">OWNER SHAREEF</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+919721195240" class="whatsapp-link">
+      <a href="https://wa.me/+919882093062" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
@@ -202,3 +202,4 @@ def stop_task():
  
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5040)
+
